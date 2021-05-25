@@ -1,4 +1,4 @@
-# Machine Learning Neural Network 
+# Machine Learning Neural Networks
 
 1-Module Linéaire
 
